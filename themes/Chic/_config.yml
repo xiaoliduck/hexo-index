@@ -2,9 +2,9 @@
 navname: HOME
 # navigatior items
 nav:
-  BLOG: https://blog.lsj.one
+  BLOG: https://blog.li.sj
   GALLERY: https://gallery.lsj.one
-  About: https://blog.lsj.one/about/
+  About: https://blog.li.sb/about/
 
 # favicon
 favicon: /favicon.ico
@@ -21,7 +21,7 @@ avatar: /image/avatar.jpeg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: https://blog.lsj.one
+  Blog: https://blog.li.sb
   # Category:
   # Tags: 
   # Link:
